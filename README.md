@@ -1,2 +1,2 @@
-# ShennongTastingHerbs
+# ShennongTestingHerbs
 a tiny game for practice
